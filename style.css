@@ -1,0 +1,269 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+header {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 40px 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #667eea;
+    margin-bottom: 10px;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.host {
+    font-size: 1rem;
+    color: #888;
+    font-style: italic;
+}
+
+/* Main Content */
+main {
+    padding: 40px 0;
+}
+
+/* Podcast Section */
+.podcast-section {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 40px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.podcast-section h2 {
+    color: #667eea;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.podcast-card {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.podcast-info h3 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 1.4rem;
+}
+
+.episode-date {
+    color: #666;
+    margin-bottom: 20px;
+    font-size: 0.95rem;
+}
+
+#podcast-player {
+    width: 100%;
+    margin-top: 15px;
+}
+
+/* Categories Section */
+.categories-section h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.category {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.category h3 {
+    color: #667eea;
+    margin-bottom: 25px;
+    font-size: 1.6rem;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 10px;
+}
+
+.article {
+    background: #f8f9fa;
+    border-left: 4px solid #764ba2;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.article:hover {
+    transform: translateX(5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.article h4 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+.article-meta {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+}
+
+.article-meta span {
+    margin-right: 15px;
+}
+
+.article-summary {
+    color: #555;
+    margin-bottom: 15px;
+    line-height: 1.7;
+}
+
+.key-points {
+    margin-top: 15px;
+}
+
+.key-points h5 {
+    color: #667eea;
+    font-size: 0.95rem;
+    margin-bottom: 8px;
+}
+
+.key-points ul {
+    list-style-position: inside;
+    color: #666;
+}
+
+.key-points li {
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+.article-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+}
+
+.article-link:hover {
+    color: #764ba2;
+}
+
+/* Footer */
+footer {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer p {
+    color: #666;
+    margin-bottom: 5px;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .tagline {
+        font-size: 1rem;
+    }
+
+    .podcast-section,
+    .category {
+        padding: 20px;
+    }
+
+    .podcast-section h2,
+    .categories-section h2 {
+        font-size: 1.5rem;
+    }
+
+    .category h3 {
+        font-size: 1.3rem;
+    }
+
+    .article h4 {
+        font-size: 1.1rem;
+    }
+
+    .article {
+        padding: 15px;
+    }
+
+    main {
+        padding: 20px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+
+    header {
+        padding: 30px 0;
+    }
+
+    header h1 {
+        font-size: 1.7rem;
+    }
+
+    .tagline {
+        font-size: 0.95rem;
+    }
+
+    .host {
+        font-size: 0.9rem;
+    }
+
+    .podcast-section,
+    .category {
+        padding: 15px;
+    }
+
+    .article-meta {
+        font-size: 0.85rem;
+    }
+
+    .article-meta span {
+        display: block;
+        margin-bottom: 5px;
+    }
+}

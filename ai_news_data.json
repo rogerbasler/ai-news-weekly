@@ -1,0 +1,214 @@
+{
+  "week_ending": "2025-12-28",
+  "podcast": {
+    "title": "The AI Pulse - Weekly AI News with Roger Basler de Roca",
+    "episode_date": "December 28, 2025",
+    "host": "Roger Basler de Roca",
+    "audio_file": "ai_pulse_podcast_2025_12_28.wav",
+    "duration_minutes": 8
+  },
+  "categories": {
+    "ai_news_of_the_week": {
+      "title": "AI News of the Week",
+      "articles": [
+        {
+          "title": "DeepSeek R1: China's Open-Source AI Model Challenges US Dominance",
+          "source": "Multiple sources (Hugging Face, AI Company, MSN)",
+          "date": "December 2025",
+          "url": "https://huggingface.co/unsloth/DeepSeek-R1",
+          "summary": "Chinese startup DeepSeek released R1, an open-source reasoning model that matches or exceeds the performance of leading proprietary AI systems while reportedly costing far less to train. The release signals China's rising capabilities in AI and challenges US dominance in the field.",
+          "key_points": [
+            "Open-source reasoning model rivaling OpenAI's capabilities",
+            "Trained for a fraction of the cost of competing models",
+            "Performance comparable to or better than ChatGPT",
+            "Can be run locally on consumer hardware",
+            "First major open-source reasoning model to challenge proprietary systems"
+          ]
+        },
+        {
+          "title": "AI Spending Drove Two-Thirds of U.S. GDP Growth in Early 2025",
+          "source": "JPMorgan Asset Management / AI Innovision",
+          "date": "December 27, 2025",
+          "url": "https://aiinnovision.com/enterprise-ai-adoption-the-training-gap-thats-costing-companies-billions/",
+          "summary": "JPMorgan Asset Management reports that AI spending accounted for two-thirds of U.S. GDP growth in early 2025, demonstrating the technology's massive economic impact. However, enterprise adoption faces challenges including training gaps and organizational tensions that are costing companies billions.",
+          "key_points": [
+            "AI investment drove 2/3 of U.S. GDP growth in early 2025",
+            "AI spending is reshaping the global economy at macro level",
+            "Enterprise AI adoption faces training gap costing billions",
+            "Structural tensions between governance and autonomy emerging"
+          ]
+        },
+        {
+          "title": "Google's 60 Biggest AI Announcements in 2025",
+          "source": "Google Blog",
+          "date": "December 23, 2025",
+          "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
+          "summary": "Google capped off 2025 with a recap of 60 major AI announcements, including significant updates to its Gemini models, AI-powered search features, and integration across its product ecosystem. The flurry of releases demonstrates Google's intensified competition with OpenAI and other AI leaders.",
+          "key_points": [
+            "60 major AI announcements throughout 2025",
+            "Updates to Gemini models and AI Mode in Search",
+            "New AI features in Android, Google TV, and NotebookLM",
+            "Gemini 3 Flash released with improved intelligence"
+          ]
+        },
+        {
+          "title": "MIT Technology Review: AI Terms That Defined 2025",
+          "source": "MIT Technology Review",
+          "date": "December 25, 2025",
+          "url": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+          "summary": "MIT Technology Review catalogued the defining AI terminology of 2025, highlighting how 'superintelligence' and 'reasoning models' dominated industry discourse. The piece examines the gap between marketing hype and technical reality as companies pursue increasingly ambitious AI capabilities.",
+          "key_points": [
+            "'Superintelligence' became the latest buzzword",
+            "Meta and Microsoft pursuing it with massive investments",
+            "'Reasoning models' like o1/o3 and R1 became industry standard",
+            "DeepSeek's R1 was first open-source reasoning model"
+          ]
+        }
+      ]
+    },
+    "ai_tools_startups_innovations": {
+      "title": "AI Tools, Startups, and Innovations",
+      "articles": [
+        {
+          "title": "Salesforce Agentforce Adds 6,000 Enterprise Customers in 3 Months",
+          "source": "VentureBeat",
+          "date": "December 23, 2025",
+          "url": "https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000",
+          "summary": "Salesforce's Agentforce platform experienced explosive growth, adding 6,000 enterprise customers in a single quarter. With over 18,500 total customers and $540M in annual recurring revenue, the platform demonstrates strong enterprise appetite for agentic AI solutions.",
+          "key_points": [
+            "6,000 new customers in one quarter (48% growth)",
+            "Total of 18,500+ customers",
+            "$540M annual recurring revenue",
+            "3 billion automated workflows monthly",
+            "3 trillion tokens processed"
+          ]
+        },
+        {
+          "title": "AI Minted More Than 50 New Billionaires in 2025",
+          "source": "Forbes",
+          "date": "December 25, 2025",
+          "url": "https://www.forbes.com/sites/aliciapark/2025/12/25/ai-minted-more-than-50-new-billionaires-in-2025/",
+          "summary": "The AI boom created more than 50 new billionaires in 2025 as startup investment reached $202.3 billion, representing a 75% increase from the previous year. The wealth creation underscores the massive capital flowing into the AI sector and its transformative impact on the technology industry.",
+          "key_points": [
+            "Over 50 new billionaires created by AI sector",
+            "$202.3 billion invested in AI startups in 2025",
+            "75% increase from $114 billion in 2024",
+            "Demonstrates continued confidence despite bubble concerns"
+          ]
+        },
+        {
+          "title": "How AI Coding Agents Work—and What to Remember",
+          "source": "Ars Technica",
+          "date": "December 24, 2025",
+          "url": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+          "summary": "AI coding agents represent a significant evolution in software development tools, using sophisticated multi-agent architectures and context management techniques. However, they require careful human oversight, planning, and validation to produce reliable code, with token costs significantly higher than traditional chatbot interactions.",
+          "key_points": [
+            "Agents from OpenAI, Anthropic, Google work on projects for hours",
+            "Use supervising LLMs that assign tasks to parallel LLMs",
+            "Multi-agent architectures use 15x more tokens than chatbots",
+            "Context limits managed through compression and summarization",
+            "Human planning and validation remain essential"
+          ]
+        }
+      ]
+    },
+    "regulation_and_ethics": {
+      "title": "Regulation and Ethics",
+      "articles": [
+        {
+          "title": "OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks",
+          "source": "OpenAI Blog / TechCrunch",
+          "date": "December 22, 2025",
+          "url": "https://openai.com/index/hardening-atlas-against-prompt-injection/",
+          "summary": "OpenAI detailed its efforts to protect ChatGPT's Atlas browser agent from prompt injection attacks, acknowledging the vulnerability may never be fully solved. The company is deploying automated red teaming with reinforcement learning, while the UK's cybersecurity agency warns such attacks may never be completely mitigated.",
+          "key_points": [
+            "Automated red teaming with reinforcement learning deployed",
+            "Prompt injection may never be fully solved, per OpenAI",
+            "UK cybersecurity agency warns attacks 'may never be totally mitigated'",
+            "Agentic browsers have 'moderate autonomy with very high access'",
+            "Security expert questions risk-reward balance"
+          ]
+        },
+        {
+          "title": "Google and OpenAI Chatbots Used to Create Non-Consensual Deepfakes",
+          "source": "WIRED",
+          "date": "December 22, 2025",
+          "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+          "summary": "WIRED investigation revealed that AI image generation tools from Google and OpenAI are being exploited to create non-consensual deepfake images of women. Users are sharing instructions for manipulating photos, highlighting serious safety and ethical concerns with current AI systems.",
+          "key_points": [
+            "Users exploiting AI to create revealing deepfakes of women",
+            "Instructions shared for manipulating photos without consent",
+            "Highlights serious safety and ethical concerns",
+            "Demonstrates need for stronger safety guardrails"
+          ]
+        },
+        {
+          "title": "Trump Issues Executive Order on Federal AI Policy Framework",
+          "source": "Mayer Brown Legal Analysis",
+          "date": "December 23, 2025",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2025/12/president-trump-issues-executive-order-on-ensuring-a-national-policy-framework-for-artificial-intelligence",
+          "summary": "The Trump Administration issued a sweeping executive order establishing a federal AI policy framework aimed at preempting state regulations deemed burdensome to innovation. The order directs multiple agencies to challenge state AI laws and conditions federal funding on compliance with national standards.",
+          "key_points": [
+            "Executive order issued December 11, 2025",
+            "DOJ to create AI Litigation Task Force to challenge state laws",
+            "Commerce Department must evaluate state AI laws within 90 days",
+            "States with conflicting laws may lose federal broadband funding",
+            "FCC directed to consider federal reporting standard",
+            "Administration seeks uniform federal standards"
+          ]
+        }
+      ]
+    },
+    "voices_and_perspectives": {
+      "title": "Voices and Perspectives",
+      "articles": [
+        {
+          "title": "How AI Broke the Smart Home in 2025",
+          "source": "The Verge",
+          "date": "December 22, 2025",
+          "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken",
+          "summary": "Despite promises of smarter homes, generative AI-powered voice assistants from Amazon and Google have proven less reliable than their predecessors at basic tasks like turning on lights and running routines. The shift from template-matching to LLM-based systems introduced unpredictability, leaving users frustrated as they beta test incomplete technology.",
+          "key_points": [
+            "Generative AI assistants struggle with basic smart home tasks",
+            "New LLM-based assistants more conversational but less reliable",
+            "Old template-matching systems were 100% accurate but limited",
+            "Users essentially beta testers for incomplete AI systems",
+            "May take years for systems to become reliable"
+          ]
+        }
+      ]
+    },
+    "implications_for_business_society": {
+      "title": "Implications for Business & Society",
+      "articles": [
+        {
+          "title": "Small Business AI Adoption Jumped from 39% to 55% in 2025",
+          "source": "Epirus VC / Thryv Survey",
+          "date": "December 23, 2025",
+          "url": "https://www.epirus.vc/blog/how-ai-leveled-the-playing-field-for-small-companies-in-2025-and-what-to-expect-in-2026",
+          "summary": "Small business AI adoption surged in 2025, with usage jumping from 39% to 55% according to a Thryv survey. The dramatic increase demonstrates how AI tools are democratizing advanced technology and enabling smaller companies to compete more effectively with larger enterprises.",
+          "key_points": [
+            "AI adoption increased from 39% in 2024 to 55% in 2025",
+            "41% year-over-year increase in usage",
+            "AI leveling playing field between small and large enterprises",
+            "Democratization of AI technology enabling transformation"
+          ]
+        },
+        {
+          "title": "AI Leaders Achieve 50% Higher Revenue Growth",
+          "source": "BCG / LinkedIn Analysis",
+          "date": "December 2025",
+          "url": "https://www.linkedin.com/pulse/ai-business-impact-predictions-vs-reality-2023-2025-irene-voskamp-qimpc",
+          "summary": "Boston Consulting Group research reveals that companies leading in AI adoption achieve 50% higher revenue growth and 60% higher shareholder returns compared to competitors, while investing twice as much in AI. The findings provide concrete evidence of AI's business impact beyond hype.",
+          "key_points": [
+            "AI leaders achieve 50% higher revenue growth",
+            "60% higher shareholder returns than competitors",
+            "These companies invest 2x more budget in AI",
+            "Success creates virtuous cycle enabling more investment",
+            "Gap widening between AI leaders and laggards"
+          ]
+        }
+      ]
+    }
+  }
+}
