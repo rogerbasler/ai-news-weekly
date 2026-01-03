@@ -1,10 +1,10 @@
 {
-  "week_ending": "2025-12-28",
+  "week_ending": "2026-01-04",
   "podcast": {
     "title": "The AI Pulse - Weekly AI News with Roger Basler de Roca",
-    "episode_date": "December 28, 2025",
+    "episode_date": "January 4, 2026",
     "host": "Roger Basler de Roca",
-    "audio_file": "ai_pulse_podcast_2025_12_28.wav",
+    "audio_file": "ai_pulse_podcast_2026_01_04.wav",
     "duration_minutes": 8
   },
   "categories": {
@@ -12,56 +12,59 @@
       "title": "AI News of the Week",
       "articles": [
         {
-          "title": "DeepSeek R1: China's Open-Source AI Model Challenges US Dominance",
-          "source": "Multiple sources (Hugging Face, AI Company, MSN)",
-          "date": "December 2025",
-          "url": "https://huggingface.co/unsloth/DeepSeek-R1",
-          "summary": "Chinese startup DeepSeek released R1, an open-source reasoning model that matches or exceeds the performance of leading proprietary AI systems while reportedly costing far less to train. The release signals China's rising capabilities in AI and challenges US dominance in the field.",
+          "title": "In 2026, AI will move from hype to pragmatism",
+          "source": "TechCrunch",
+          "date": "January 2, 2026",
+          "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+          "summary": "Industry experts predict 2026 will mark a transition from AI hype to practical implementation, with focus shifting from building ever-larger language models to making AI usable through smaller models, physical devices, and better integration into human workflows.",
           "key_points": [
-            "Open-source reasoning model rivaling OpenAI's capabilities",
-            "Trained for a fraction of the cost of competing models",
-            "Performance comparable to or better than ChatGPT",
-            "Can be run locally on consumer hardware",
-            "First major open-source reasoning model to challenge proprietary systems"
+            "Shift from brute-force scaling to researching new architectures",
+            "Fine-tuned small language models (SLMs) becoming enterprise standard",
+            "World models market predicted to grow from $1.2B to $276B by 2030",
+            "Anthropic's Model Context Protocol (MCP) becoming standard",
+            "Physical AI hitting mainstream through robotics, AVs, drones, and wearables"
           ]
         },
         {
-          "title": "AI Spending Drove Two-Thirds of U.S. GDP Growth in Early 2025",
-          "source": "JPMorgan Asset Management / AI Innovision",
-          "date": "December 27, 2025",
-          "url": "https://aiinnovision.com/enterprise-ai-adoption-the-training-gap-thats-costing-companies-billions/",
-          "summary": "JPMorgan Asset Management reports that AI spending accounted for two-thirds of U.S. GDP growth in early 2025, demonstrating the technology's massive economic impact. However, enterprise adoption faces challenges including training gaps and organizational tensions that are costing companies billions.",
+          "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+          "source": "TechCrunch",
+          "date": "January 1, 2026",
+          "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+          "summary": "OpenAI has unified multiple teams to overhaul audio models in preparation for an audio-first personal device launching in about a year, reflecting broader tech industry shift toward audio interfaces and away from screens.",
           "key_points": [
-            "AI investment drove 2/3 of U.S. GDP growth in early 2025",
-            "AI spending is reshaping the global economy at macro level",
-            "Enterprise AI adoption faces training gap costing billions",
-            "Structural tensions between governance and autonomy emerging"
+            "OpenAI unified teams to overhaul audio models for audio-first device in ~1 year",
+            "New audio model (early 2026) will sound more natural, handle interruptions",
+            "Jony Ive's io Products acquired by OpenAI for $6.5 billion in May 2025",
+            "Industry trend: Smart speakers in 1/3 of U.S. homes, Meta Ray-Ban glasses",
+            "Multiple startups pursuing audio-first devices"
           ]
         },
         {
-          "title": "Google's 60 Biggest AI Announcements in 2025",
-          "source": "Google Blog",
-          "date": "December 23, 2025",
-          "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/",
-          "summary": "Google capped off 2025 with a recap of 60 major AI announcements, including significant updates to its Gemini models, AI-powered search features, and integration across its product ecosystem. The flurry of releases demonstrates Google's intensified competition with OpenAI and other AI leaders.",
+          "title": "Meta acquires Manus for $2 billion",
+          "source": "TechCrunch",
+          "date": "December 29, 2025",
+          "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+          "summary": "Meta acquired Singapore-based AI startup Manus for $2 billion, marking a significant move as Manus represents an AI product actually generating revenue ($100M+ ARR) with millions of users.",
           "key_points": [
-            "60 major AI announcements throughout 2025",
-            "Updates to Gemini models and AI Mode in Search",
-            "New AI features in Android, Google TV, and NotebookLM",
-            "Gemini 3 Flash released with improved intelligence"
+            "Meta paying $2 billion for Manus acquisition",
+            "Manus generating $100M+ annual recurring revenue from subscriptions",
+            "Millions of users signed up since spring 2025 launch",
+            "Chinese founders moved from Beijing to Singapore mid-2025",
+            "Manus will discontinue operations in China post-acquisition"
           ]
         },
         {
-          "title": "MIT Technology Review: AI Terms That Defined 2025",
-          "source": "MIT Technology Review",
-          "date": "December 25, 2025",
-          "url": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
-          "summary": "MIT Technology Review catalogued the defining AI terminology of 2025, highlighting how 'superintelligence' and 'reasoning models' dominated industry discourse. The piece examines the gap between marketing hype and technical reality as companies pursue increasingly ambitious AI capabilities.",
+          "title": "VCs predict enterprises will meaningfully adopt AI in 2026",
+          "source": "TechCrunch",
+          "date": "December 29, 2025",
+          "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
+          "summary": "TechCrunch surveyed 24 enterprise-focused VCs who overwhelmingly predict 2026 will be the year enterprises meaningfully adopt AI and increase budgets, despite MIT survey showing 95% of enterprises not getting meaningful ROI yet.",
           "key_points": [
-            "'Superintelligence' became the latest buzzword",
-            "Meta and Microsoft pursuing it with massive investments",
-            "'Reasoning models' like o1/o3 and R1 became industry standard",
-            "DeepSeek's R1 was first open-source reasoning model"
+            "MIT survey found 95% of enterprises not getting meaningful ROI from AI",
+            "24 enterprise VCs predict 2026 will be breakthrough year",
+            "AI budgets will increase but concentrate on vendors that deliver clear results",
+            "Shift from experimental budgets to budgeted line items",
+            "Voice AI seen as key investment area"
           ]
         }
       ]
@@ -70,44 +73,45 @@
       "title": "AI Tools, Startups, and Innovations",
       "articles": [
         {
-          "title": "Salesforce Agentforce Adds 6,000 Enterprise Customers in 3 Months",
+          "title": "Musk's xAI launches Grok Business and Enterprise",
           "source": "VentureBeat",
-          "date": "December 23, 2025",
-          "url": "https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000",
-          "summary": "Salesforce's Agentforce platform experienced explosive growth, adding 6,000 enterprise customers in a single quarter. With over 18,500 total customers and $540M in annual recurring revenue, the platform demonstrates strong enterprise appetite for agentic AI solutions.",
+          "date": "January 2, 2026",
+          "url": "https://venturebeat.com/ai/musks-xai-launches-grok-business-and-enterprise-with-compelling-vault-amid",
+          "summary": "xAI launched Grok Business ($30/seat/month) and Grok Enterprise with Enterprise Vault isolation layer, positioning Grok as enterprise-ready AI platform with advanced security features.",
           "key_points": [
-            "6,000 new customers in one quarter (48% growth)",
-            "Total of 18,500+ customers",
-            "$540M annual recurring revenue",
-            "3 billion automated workflows monthly",
-            "3 trillion tokens processed"
+            "Grok Business at $30/seat/month for small-mid teams",
+            "Enterprise Vault offers dedicated data plane, application-level encryption",
+            "Access to Grok 3, Grok 4, and Grok 4 Heavy models",
+            "SOC 2, GDPR, CCPA compliant; user data never used for training",
+            "Integrates with Google Drive for document search"
           ]
         },
         {
-          "title": "AI Minted More Than 50 New Billionaires in 2025",
-          "source": "Forbes",
-          "date": "December 25, 2025",
-          "url": "https://www.forbes.com/sites/aliciapark/2025/12/25/ai-minted-more-than-50-new-billionaires-in-2025/",
-          "summary": "The AI boom created more than 50 new billionaires in 2025 as startup investment reached $202.3 billion, representing a 75% increase from the previous year. The wealth creation underscores the massive capital flowing into the AI sector and its transformative impact on the technology industry.",
+          "title": "Neuralink plans high-volume brain implant production by 2026",
+          "source": "Reuters",
+          "date": "January 1, 2026",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/musk-says-neuralink-start-high-volume-production-interface-devices-by-2026-2026-01-01/",
+          "summary": "Elon Musk's Neuralink will begin high-volume production of brain-computer interface devices and transition to almost entirely automated surgical procedures in 2026.",
           "key_points": [
-            "Over 50 new billionaires created by AI sector",
-            "$202.3 billion invested in AI startups in 2025",
-            "75% increase from $114 billion in 2024",
-            "Demonstrates continued confidence despite bubble concerns"
+            "High-volume production starting in 2026",
+            "Streamlined, almost entirely automated surgical procedure",
+            "Implant designed to help people with spinal cord injuries",
+            "First patient has used it to play video games, browse internet",
+            "Move to automated procedures to scale deployment"
           ]
         },
         {
-          "title": "How AI Coding Agents Work—and What to Remember",
-          "source": "Ars Technica",
-          "date": "December 24, 2025",
-          "url": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
-          "summary": "AI coding agents represent a significant evolution in software development tools, using sophisticated multi-agent architectures and context management techniques. However, they require careful human oversight, planning, and validation to produce reliable code, with token costs significantly higher than traditional chatbot interactions.",
+          "title": "Google pushes AI onto devices",
+          "source": "PYMNTS",
+          "date": "January 2, 2026",
+          "url": "https://www.pymnts.com/artificial-intelligence-2/2026/google-pushes-ai-onto-devices/",
+          "summary": "Google is shifting AI from cloud to on-device processing with new models like FunctionGemma that can control mobile devices with natural language, marking shift toward edge computing.",
           "key_points": [
-            "Agents from OpenAI, Anthropic, Google work on projects for hours",
-            "Use supervising LLMs that assign tasks to parallel LLMs",
-            "Multi-agent architectures use 15x more tokens than chatbots",
-            "Context limits managed through compression and summarization",
-            "Human planning and validation remain essential"
+            "Google releasing FunctionGemma for edge device control",
+            "Model translates language into executable device commands",
+            "Shift from cloud-based to on-device AI processing",
+            "Part of broader trend toward edge computing and physical AI",
+            "Enables more responsive, privacy-focused AI applications"
           ]
         }
       ]
@@ -116,45 +120,59 @@
       "title": "Regulation and Ethics",
       "articles": [
         {
-          "title": "OpenAI Hardens ChatGPT Atlas Against Prompt Injection Attacks",
-          "source": "OpenAI Blog / TechCrunch",
-          "date": "December 22, 2025",
-          "url": "https://openai.com/index/hardening-atlas-against-prompt-injection/",
-          "summary": "OpenAI detailed its efforts to protect ChatGPT's Atlas browser agent from prompt injection attacks, acknowledging the vulnerability may never be fully solved. The company is deploying automated red teaming with reinforcement learning, while the UK's cybersecurity agency warns such attacks may never be completely mitigated.",
+          "title": "Grok is undressing anyone, including minors",
+          "source": "The Verge",
+          "date": "January 2, 2026",
+          "url": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
+          "summary": "xAI's Grok chatbot is removing clothing from pictures without consent after rollout of feature allowing X users to instantly edit any image without original poster's permission or notification.",
           "key_points": [
-            "Automated red teaming with reinforcement learning deployed",
+            "New 'Edit Image' tool allows instant editing without consent or notification",
+            "Grok has few guardrails preventing anything short of full explicit nudity",
+            "X flooded with sexualized imagery of women, children, world leaders, celebrities",
+            "Grok issued apology for incident involving minors in sexualized attire",
+            "Called it 'failure in safeguards' that may have violated xAI policies and US law"
+          ]
+        },
+        {
+          "title": "Meet the new tech laws of 2026",
+          "source": "The Verge",
+          "date": "January 1, 2026",
+          "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+          "summary": "Multiple state tech laws take effect in 2026, including AI transparency requirements, companion chatbot regulations, and right-to-repair rules, with California leading on AI regulation.",
+          "key_points": [
+            "California SB 53 (AI transparency law) takes effect January 1, 2026",
+            "Requires major AI companies to publish safety and security details",
+            "SB 243 regulates companion chatbots for suicide prevention",
+            "SB 524 requires law enforcement to disclose AI use",
+            "Trump administration aims to ban state AI laws"
+          ]
+        },
+        {
+          "title": "OpenAI admits AI browsers face unsolvable prompt attacks",
+          "source": "OpenAI Blog / TechCrunch",
+          "date": "December 2025",
+          "url": "https://openai.com/index/hardening-atlas-against-prompt-injection/",
+          "summary": "OpenAI acknowledges that prompt injection attacks against AI-powered browsers like ChatGPT Atlas may never be fully solved, deploying automated red teaming with reinforcement learning while UK cybersecurity agency warns attacks may never be totally mitigated.",
+          "key_points": [
             "Prompt injection may never be fully solved, per OpenAI",
             "UK cybersecurity agency warns attacks 'may never be totally mitigated'",
+            "Automated red teaming with reinforcement learning deployed",
             "Agentic browsers have 'moderate autonomy with very high access'",
-            "Security expert questions risk-reward balance"
+            "Security experts question risk-reward balance"
           ]
         },
         {
-          "title": "Google and OpenAI Chatbots Used to Create Non-Consensual Deepfakes",
-          "source": "WIRED",
-          "date": "December 22, 2025",
-          "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-          "summary": "WIRED investigation revealed that AI image generation tools from Google and OpenAI are being exploited to create non-consensual deepfake images of women. Users are sharing instructions for manipulating photos, highlighting serious safety and ethical concerns with current AI systems.",
-          "key_points": [
-            "Users exploiting AI to create revealing deepfakes of women",
-            "Instructions shared for manipulating photos without consent",
-            "Highlights serious safety and ethical concerns",
-            "Demonstrates need for stronger safety guardrails"
-          ]
-        },
-        {
-          "title": "Trump Issues Executive Order on Federal AI Policy Framework",
+          "title": "Trump administration signals disruption to state AI laws",
           "source": "Mayer Brown Legal Analysis",
-          "date": "December 23, 2025",
+          "date": "December 2025",
           "url": "https://www.mayerbrown.com/en/insights/publications/2025/12/president-trump-issues-executive-order-on-ensuring-a-national-policy-framework-for-artificial-intelligence",
-          "summary": "The Trump Administration issued a sweeping executive order establishing a federal AI policy framework aimed at preempting state regulations deemed burdensome to innovation. The order directs multiple agencies to challenge state AI laws and conditions federal funding on compliance with national standards.",
+          "summary": "Trump administration aims to preempt state AI regulations deemed burdensome to innovation, with executive order directing agencies to challenge state AI laws and condition federal funding on compliance with national standards.",
           "key_points": [
-            "Executive order issued December 11, 2025",
+            "Executive order seeks uniform federal AI standards",
             "DOJ to create AI Litigation Task Force to challenge state laws",
-            "Commerce Department must evaluate state AI laws within 90 days",
             "States with conflicting laws may lose federal broadband funding",
-            "FCC directed to consider federal reporting standard",
-            "Administration seeks uniform federal standards"
+            "Administration seeks to preempt state regulations",
+            "Sets up conflict with California and other states with AI laws"
           ]
         }
       ]
@@ -163,17 +181,17 @@
       "title": "Voices and Perspectives",
       "articles": [
         {
-          "title": "How AI Broke the Smart Home in 2025",
-          "source": "The Verge",
-          "date": "December 22, 2025",
-          "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken",
-          "summary": "Despite promises of smarter homes, generative AI-powered voice assistants from Amazon and Google have proven less reliable than their predecessors at basic tasks like turning on lights and running routines. The shift from template-matching to LLM-based systems introduced unpredictability, leaving users frustrated as they beta test incomplete technology.",
+          "title": "MIT survey: 95% of enterprises not seeing AI ROI",
+          "source": "MIT / TechCrunch",
+          "date": "August 2025",
+          "url": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
+          "summary": "MIT survey found that 95% of enterprises aren't getting meaningful return on their investments in AI, highlighting gap between AI hype and real-world business value despite massive investment.",
           "key_points": [
-            "Generative AI assistants struggle with basic smart home tasks",
-            "New LLM-based assistants more conversational but less reliable",
-            "Old template-matching systems were 100% accurate but limited",
-            "Users essentially beta testers for incomplete AI systems",
-            "May take years for systems to become reliable"
+            "95% of enterprises not getting meaningful ROI from AI investments",
+            "Three years after ChatGPT launch, value realization remains elusive",
+            "Enterprises struggling to move from pilots to production",
+            "VCs remain optimistic despite lack of current ROI",
+            "Highlights need for more practical, focused AI implementations"
           ]
         }
       ]
@@ -182,30 +200,31 @@
       "title": "Implications for Business & Society",
       "articles": [
         {
-          "title": "Small Business AI Adoption Jumped from 39% to 55% in 2025",
-          "source": "Epirus VC / Thryv Survey",
-          "date": "December 23, 2025",
-          "url": "https://www.epirus.vc/blog/how-ai-leveled-the-playing-field-for-small-companies-in-2025-and-what-to-expect-in-2026",
-          "summary": "Small business AI adoption surged in 2025, with usage jumping from 39% to 55% according to a Thryv survey. The dramatic increase demonstrates how AI tools are democratizing advanced technology and enabling smaller companies to compete more effectively with larger enterprises.",
+          "title": "European banks plan to cut 200,000 jobs as AI takes hold",
+          "source": "TechCrunch / Financial Times",
+          "date": "January 1, 2026",
+          "url": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
+          "summary": "Morgan Stanley analysis predicts more than 200,000 European banking jobs (10% of workforce at 35 major banks) will be eliminated by 2030 as banks adopt AI and close physical branches.",
           "key_points": [
-            "AI adoption increased from 39% in 2024 to 55% in 2025",
-            "41% year-over-year increase in usage",
-            "AI leveling playing field between small and large enterprises",
-            "Democratization of AI technology enabling transformation"
+            "200,000+ European banking jobs to vanish by 2030",
+            "10% of workforce at 35 major banks affected",
+            "Hardest hit: back-office operations, risk management, compliance",
+            "Banks projecting 30% efficiency gains from AI",
+            "Goldman Sachs warned U.S. employees of job cuts and hiring freeze"
           ]
         },
         {
-          "title": "AI Leaders Achieve 50% Higher Revenue Growth",
-          "source": "BCG / LinkedIn Analysis",
-          "date": "December 2025",
-          "url": "https://www.linkedin.com/pulse/ai-business-impact-predictions-vs-reality-2023-2025-irene-voskamp-qimpc",
-          "summary": "Boston Consulting Group research reveals that companies leading in AI adoption achieve 50% higher revenue growth and 60% higher shareholder returns compared to competitors, while investing twice as much in AI. The findings provide concrete evidence of AI's business impact beyond hype.",
+          "title": "Morgan Stanley: AI productivity gains will account for 20% of global growth in 2026",
+          "source": "Morgan Stanley",
+          "date": "January 2026",
+          "url": "https://www.morganstanley.com/insights/articles/thematic-investing-ai-drives-megatrends-2026",
+          "summary": "Morgan Stanley forecasts that productivity gains from AI will account for about 20% of global economic growth in 2026, demonstrating AI's massive macroeconomic impact despite enterprise adoption challenges.",
           "key_points": [
-            "AI leaders achieve 50% higher revenue growth",
-            "60% higher shareholder returns than competitors",
-            "These companies invest 2x more budget in AI",
-            "Success creates virtuous cycle enabling more investment",
-            "Gap widening between AI leaders and laggards"
+            "AI productivity gains to account for 20% of global growth in 2026",
+            "Demonstrates AI's macroeconomic impact at scale",
+            "Contrast with enterprise-level ROI challenges",
+            "Investment in AI infrastructure driving economic growth",
+            "Thematic investment boom driven by AI megatrends"
           ]
         }
       ]
